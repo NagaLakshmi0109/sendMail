@@ -1,4 +1,5 @@
-# Send gmail
+# Send mail
+
 import tkinter as tk
 from tkinter import scrolledtext
 import smtplib
